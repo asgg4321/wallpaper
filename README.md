@@ -7,4 +7,4 @@ windows 一键换背景图片
     pip install requests
     pip install bs4
 
-双击wallpaper.bat更换背景
+执行WALLPAPER.bat更换背景
